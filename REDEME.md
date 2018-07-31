@@ -23,15 +23,16 @@
 
 ![img](https://github.com/RenSLei/SharedBikes/blob/master/directory.png)
 
-- 获取不同位置附近200米的单车：![img](F:/youdaoFile/rsl_wy@163.com/42ee51f08412484aa1b903683b1282e6/clipboard.png)
+- 获取不同位置附近200米的单车：
+![img](https://github.com/RenSLei/SharedBikes/blob/master/findNear.png)
 
 - 注册页面：
 
-![img](F:/youdaoFile/rsl_wy@163.com/c8f95794c8a640b8af34c31fcec20195/clipboard.png)
+![img](https://github.com/RenSLei/SharedBikes/blob/master/register.png)
 
 - mongodb数据库信息：
 
-![1533057845901](C:\Users\rsl\AppData\Local\Temp\1533057845901.png)
+![img](https://github.com/RenSLei/SharedBikes/blob/master/mongodb.png)
 
 - 【创建小程序】
 
