@@ -29,7 +29,9 @@
 
 ![img](F:/youdaoFile/rsl_wy@163.com/c8f95794c8a640b8af34c31fcec20195/clipboard.png)
 
+- mongodb数据库信息：
 
+![1533057845901](C:\Users\rsl\AppData\Local\Temp\1533057845901.png)
 
 - 【创建小程序】
 
