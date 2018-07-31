@@ -1,0 +1,16 @@
+<!-- {{}}去对应的js文件中去找data里的对应参数值 -->
+<!-- 设置经度纬度以及控件 -->
+<map
+id='myMap'
+longitude='{{log}}'
+latitude='{{lat}}'
+controls='{{controls}}'
+show-location='true'
+scale='18'
+bindcontroltap='controltap'
+style='width:100%;height:100%'
+markers='{{markers}}'
+bindregionchange='regionchange'
+>
+
+</map>

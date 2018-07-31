@@ -1,0 +1,15 @@
+{
+  "pages":[
+    "pages/index/index",
+    "pages/register/register",
+    "pages/logs/logs",
+    "pages/deposit/deposit",
+    "pages/identify/identify"
+  ],
+  "window":{
+    "backgroundTextStyle":"light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "SharedBikes",
+    "navigationBarTextStyle":"black"
+  }
+}
