@@ -21,7 +21,7 @@
 - 【截图】
   - 目录结构：
 
-![img](F:/youdaoFile/rsl_wy@163.com/9a86444491544165bfa0350adc3bb236/clipboard.png)
+![img](https://github.com/RenSLei/SharedBikes/blob/master/directory.png)
 
 - 获取不同位置附近200米的单车：![img](F:/youdaoFile/rsl_wy@163.com/42ee51f08412484aa1b903683b1282e6/clipboard.png)
 
